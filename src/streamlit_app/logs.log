@@ -1,0 +1,13 @@
+2024-03-14 15:58:13,800:INFO:  Stopping...
+2024-03-18 19:18:07,839:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-18 19:18:07,840:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-18 19:18:07,840:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-18 19:18:07,840:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-03-18 19:18:08,372:INFO:Initializing load_model()
+2024-03-18 19:18:08,372:INFO:load_model(model_name=Final Kmeans Model, platform=None, authentication=None, verbose=True)
+2024-03-18 19:18:13,093:INFO:Initializing load_model()
+2024-03-18 19:18:13,093:INFO:load_model(model_name=Final Kmeans Model, platform=None, authentication=None, verbose=True)
