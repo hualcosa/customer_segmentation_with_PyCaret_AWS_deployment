@@ -18,6 +18,8 @@ The project uses the ‘jewellery’ dataset from PyCaret’s collection, which 
 - **Libraries:** PyCaret, pandas, Streamlit
 - **Cloud Services:** AWS ECS and ECR
 
+## Deployment Tutorial
+- **COMING SOON**
 ## Getting Started
 To run this project locally, follow these steps:
 
